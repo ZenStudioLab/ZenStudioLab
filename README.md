@@ -27,6 +27,7 @@
 
 # Connect
 
+[![Personal Page](https://img.shields.io/badge/-Personal_Page-181717?style=flat-square)](https://zenstudio.cv)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toannc-6b974ab8/)
 [![Upwork](https://img.shields.io/badge/-Toan_Nguyen-14A800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01474457019998557b)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/canh.toan.nguyen.2101/)
@@ -41,6 +42,6 @@
 <details>
 <summary>Random Facts</summary>
 
-- I'm not an Emacs Enthusiast, but I have been using Emacs keybindings in other IDEs for 10+ years.
+- I'm not an Emacs enthusiast, but I have been using Emacs keybindings in other IDEs for 10+ years.
 
 </details>
