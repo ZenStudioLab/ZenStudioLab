@@ -1,6 +1,6 @@
 # Hi, I'm Toan 👋
 
-📍 **Vietnam** | **Fullstack MERN Engineer** | 🚀 **Creator, Builder @ ZenStudioLab**
+📍 **Fullstack MERN Engineer**, **Vietnam** | 🚀 **Creator, Builder @ ZenStudioLab** | 🌏 **Remote - Contractor at Nextfaze.ai and FSG.com**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
